@@ -1,0 +1,7 @@
+{
+  "name": "视唱练耳智能训练系统",
+  "description": "面向中国艺术考生的 AI 辅助学习工具",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
